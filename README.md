@@ -56,3 +56,4 @@ The bot is implemented as a single file (`src/index.ts`) with:
 5. **Server Setup**: Start the bot HTTP server
 
 This is the perfect starting point for building more complex bots!
+# funbot
