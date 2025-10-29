@@ -9,10 +9,6 @@ const commands = [
     name: "time",
     description: "Get the current time",
   },
-  {
-    name: "poke",
-    description: "Poke someone",
-  },
 ] as const satisfies PlainMessage<SlashCommand>[];
 
 export default commands;
